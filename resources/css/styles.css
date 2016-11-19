@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900");
+@import url("https://fonts.googleapis.com/css?family=Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900");
+.pacifico, .pacifico-routes, .main-logo, .link-empresas {
+  font-family: "Pacifico", cursive; }
+
+.lato, .lato-bold, .title-routes-ticket, .lato-bold-X2, .lato-light, .content-routes-ticket {
+  font-family: "Lato", sans-serif; }
+
+.lato-bold, .title-routes-ticket {
+  font-weight: 700; }
+
+.lato-bold-X2 {
+  font-weight: 900; }
+
+.lato-light, .content-routes-ticket {
+  font-weight: 300; }
+
+.morado, .verde-btn:hover {
+  background: #5F5464; }
+
+.morado-texto, .verde-btn, .title-routes-ticket, .link-empresas {
+  color: #5F5464; }
+
+.pastel {
+  background: #FAEBDA; }
+
+.pastel-texto, .verde-btn:hover, .pacifico-routes, .main-logo {
+  color: #FAEBDA; }
+
+.rosado {
+  background: #442428; }
+
+.rosado-texto {
+  color: #442428; }
+
+.verde, .verde-btn {
+  background: #97B7A0; }
+
+.verde-texto {
+  color: #97B7A0; }
+
+.pacifico, .pacifico-routes, .main-logo, .link-empresas {
+  font-family: "Pacifico", cursive; }
+
+.lato, .lato-bold, .title-routes-ticket, .lato-bold-X2, .lato-light, .content-routes-ticket {
+  font-family: "Lato", sans-serif; }
+
+.lato-bold, .title-routes-ticket {
+  font-weight: 700; }
+
+.lato-bold-X2 {
+  font-weight: 900; }
+
+.lato-light, .content-routes-ticket {
+  font-weight: 300; }
+
+.pacifico-routes {
+  font-size: 2rem; }
+
+.btn-reserve {
+  width: 100%;
+  text-align: center; }
+
+.title-routes-ticket {
+  font-size: 1.5rem; }
+
+.content-routes-ticket {
+  font-size: 1.3rem; }
+
+.price-routes-ticket {
+  font-size: 2rem; }
+
+.link-empresas {
+  font-size: 2rem; }
+
+.animation-2 {
+  animation-delay: 2s; }
+
+.animation-1 {
+  animation-delay: 0.02s; }
+
+.input-field input[type=text]:focus {
+  border-bottom: 2px solid #97B7A0;
+  box-shadow: none; }
+
+.morado, .verde-btn:hover {
+  background: #5F5464; }
+
+.morado-texto, .verde-btn, .title-routes-ticket, .link-empresas {
+  color: #5F5464; }
+
+.pastel {
+  background: #FAEBDA; }
+
+.pastel-texto, .verde-btn:hover, .pacifico-routes, .main-logo {
+  color: #FAEBDA; }
+
+.rosado {
+  background: #442428; }
+
+.rosado-texto {
+  color: #442428; }
+
+.verde, .verde-btn {
+  background: #97B7A0; }
+
+.verde-texto {
+  color: #97B7A0; }
+
+/*# sourceMappingURL=styles.css.map */
