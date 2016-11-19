@@ -2,10 +2,10 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900");
 @import url("https://fonts.googleapis.com/css?family=Pacifico");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900");
-.pacifico, .pacifico-routes, .main-logo, .link-empresas {
+.pacifico, .pacifico-routes, .main-logo, .link-empresas, .ad-register-title {
   font-family: "Pacifico", cursive; }
 
-.lato, .lato-bold, .title-routes-ticket, .lato-bold-X2, .lato-light, .content-routes-ticket {
+.lato, .lato-bold, .title-routes-ticket, .lato-bold-X2, .lato-light, .content-routes-ticket, .ad-register, .ad-register-title, .btn-login {
   font-family: "Lato", sans-serif; }
 
 .lato-bold, .title-routes-ticket {
@@ -14,10 +14,10 @@
 .lato-bold-X2 {
   font-weight: 900; }
 
-.lato-light, .content-routes-ticket {
+.lato-light, .content-routes-ticket, .ad-register, .ad-register-title {
   font-weight: 300; }
 
-.morado, .verde-btn:hover {
+.morado, .verde-btn:hover, .btn-login:hover {
   background: #5F5464; }
 
 .morado-texto, .verde-btn, .title-routes-ticket, .link-empresas {
@@ -41,10 +41,10 @@
 .verde-texto {
   color: #97B7A0; }
 
-.pacifico, .pacifico-routes, .main-logo, .link-empresas {
+.pacifico, .pacifico-routes, .main-logo, .link-empresas, .ad-register-title {
   font-family: "Pacifico", cursive; }
 
-.lato, .lato-bold, .title-routes-ticket, .lato-bold-X2, .lato-light, .content-routes-ticket {
+.lato, .lato-bold, .title-routes-ticket, .lato-bold-X2, .lato-light, .content-routes-ticket, .ad-register, .ad-register-title, .btn-login {
   font-family: "Lato", sans-serif; }
 
 .lato-bold, .title-routes-ticket {
@@ -53,7 +53,7 @@
 .lato-bold-X2 {
   font-weight: 900; }
 
-.lato-light, .content-routes-ticket {
+.lato-light, .content-routes-ticket, .ad-register, .ad-register-title {
   font-weight: 300; }
 
 .pacifico-routes {
@@ -85,7 +85,20 @@
   border-bottom: 2px solid #97B7A0;
   box-shadow: none; }
 
-.morado, .verde-btn:hover {
+.input-field input[type=password]:focus {
+  border-bottom: 2px solid #97B7A0;
+  box-shadow: none; }
+
+.ad-register {
+  font-size: 1.5rem; }
+
+.ad-register-title {
+  font-size: 2rem; }
+
+.btn-login:hover {
+  color: white; }
+
+.morado, .verde-btn:hover, .btn-login:hover {
   background: #5F5464; }
 
 .morado-texto, .verde-btn, .title-routes-ticket, .link-empresas {
